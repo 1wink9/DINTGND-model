@@ -26,9 +26,3 @@ This repository contains the complete MATLAB implementation of the DINTGND model
 3. **For Dynamical Synchronization Analysis:** Open and run `main.m` directly.
 4. **For Video Encryption/Decryption Testing:** Open and run `DINTGND_encryption.m` (ensure `test01.avi` is in the same directory as the script). Once the program finishes running, it will automatically pop up visual comparisons and analysis charts of the original, encrypted, and decrypted frames.
 
-## Results
-*(Tip: You can upload your output figures to this repository later and display them here using the format: `![Description](image_name.png)`)*
-
-## Citation
-If you find this code helpful in your research, please consider citing our paper:
-> [Insert your paper title, authors, and journal link here]

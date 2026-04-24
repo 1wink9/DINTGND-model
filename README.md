@@ -4,7 +4,7 @@
 This repository contains the complete MATLAB implementation of the DINTGND model based on Chua's circuit, along with various other chaotic synchronization models such as NTGND, NNRZND, RACZND, ANFOZND, and GND. Furthermore, this project demonstrates the practical application of these chaotic systems in the field of secure video encryption. 
 
 ## Updates
-* **April 2026**: Fixed a console I/O issue in the ODE solver functions to support extended simulation times without memory overflow. Enhanced the main.m evaluation script by introducing a slope-check mechanism to better distinguish steady states from transient phases during convergence evaluation.
+* **April 2026**: Improved long-term simulation stability and enhanced the convergence evaluation mechanism.
 
 ## Features
 * **Chaotic Synchronization Analysis:** Simulates and compares the residual errors including Maximum Steady-State Residual Error MSSRE and Average Steady-State Residual Error ASSRE as well as the convergence time CT of multiple neurodynamic models.
